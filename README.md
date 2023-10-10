@@ -1,23 +1,8 @@
-<div align="center"> 
-  <div >
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=atoslandia&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
-  </div>
-  <div align="center"> 
-    <a href = "mailto:atosalvesqueiroz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/atos-alves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  </div>
-</div>
-<!--
-**atoslandia/atoslandia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Olá, meu nome é Atos.
 
-Here are some ideas to get you started:
+### GitHub Streak
+<a><img src="https://streak-stats.demolab.com?user=atoslandia&theme=transparent&locale=pt_BR&date_format=j%20M%5B%20Y%5D&exclude_days=Mon%2CTue%2CWed%2CThu%2CFri&card_width=600" alt="GitHub Streak" /></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contatos
+<a href = "mailto:atosalvesqueiroz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/atos-alves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
